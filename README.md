@@ -8,4 +8,5 @@ My ubuntu WSL config
 5 - Install Powerline: https://medium.com/@jrcharney/bash-on-ubuntu-on-windows-the-almost-complete-set-up-1dd3cb89b794;  
 6 - Install Hyper.js;  
 7 - Use .zshrc and run ```source .zshrc```;  
-8 - Install Hacker Nerd Fonts ```https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack```;  
+8 - Install Hacker Nerd Fonts ```https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack```; (For the terminal)  
+9 - Install Meslo LG M Font ```https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Meslo/M/Regular/complete```; (For VSCode terminal);  
