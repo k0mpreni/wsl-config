@@ -12,3 +12,12 @@ fi``` to the .bashrc file;
 7 - Use .zshrc and run ```source .zshrc```;  
 8 - Install Hacker Nerd Fonts ```https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack``` (For the terminal);  
 9 - Install Meslo LG M Font ```https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Meslo/M/Regular/complete```; (For VSCode terminal);  
+
+
+### My Hyper configuration
+[hyper terminal](https://raw.githubusercontent.com/brainlulz/wsl-config/master/hyper.PNG?token=AGT2OFQ6BOUY32W4OHUHJOK5AAMXM)  
+
+### My VSCode configuration
+[vscode](https://raw.githubusercontent.com/brainlulz/wsl-config/master/vscode.PNG?token=AGT2OFSMGGGVOKQAAZ4SIEC5AAMXM)
+
+You can check my customs themes here: https://marketplace.visualstudio.com/publishers/alexlab
