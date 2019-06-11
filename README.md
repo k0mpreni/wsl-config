@@ -15,9 +15,9 @@ fi``` to the .bashrc file;
 
 
 ### My Hyper configuration
-[hyper terminal](https://raw.githubusercontent.com/brainlulz/wsl-config/master/hyper.PNG?token=AGT2OFQ6BOUY32W4OHUHJOK5AAMXM)  
+![hyper terminal](https://raw.githubusercontent.com/brainlulz/wsl-config/master/hyper.PNG?token=AGT2OFQ6BOUY32W4OHUHJOK5AAMXM)  
 
 ### My VSCode configuration
-[vscode](https://raw.githubusercontent.com/brainlulz/wsl-config/master/vscode.PNG?token=AGT2OFSMGGGVOKQAAZ4SIEC5AAMXM)
+![vscode](https://raw.githubusercontent.com/brainlulz/wsl-config/master/vscode.PNG?token=AGT2OFSMGGGVOKQAAZ4SIEC5AAMXM)
 
 You can check my customs themes here: https://marketplace.visualstudio.com/publishers/alexlab
