@@ -1,7 +1,7 @@
 # wsl-config
 My ubuntu WSL config
 
-1 - Install WSL + Ubuntu;  
+1 - Install [WSL + Ubuntu](https://docs.microsoft.com/en-us/windows/wsl/install-win10);  
 2 - Open ubuntu app and create an account;  
 3 - Install zsh in the ubuntu app: ```sudo apt-get install zsh``` and then run ```chsh``` , choose zsh and add ```if test -t 1; then
   exec zsh
